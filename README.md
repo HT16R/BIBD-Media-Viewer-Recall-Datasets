@@ -1,4 +1,4 @@
-Companion datasets for Example 38 in forthcoming textbook, Quantitative Media Research - A Global-South-First Textbook in Chapter 4 – Research Designs.
+Companion datasets for Example 38) in forthcoming textbook, Quantitative Media Research - A Global-South-First Textbook in Chapter 4 – Research Designs.
 Contents of BIBD.zip ->
 
 Two detailed README.txt files (full design explanation, column descriptions, replication logic)
